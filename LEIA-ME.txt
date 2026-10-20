@@ -1,0 +1,14 @@
+RENOVA LAR HIGIENIZAÇÃO — SITE ATUALIZADO
+
+- index.html: site completo, responsivo e atualizado.
+- assets/icone-colchoes.png, icone-sofas.png, icone-tapetes.png, icone-automotivo.png: novos ícones em PNG.
+- assets/logo-renova-lar.jpg e assets/sofa-atendimento.jpg: logo e foto, caso estejam disponíveis no pacote.
+
+Os botões de orçamento direcionam para https://wa.me/558597106180.
+Área de atendimento: Pentecoste, Paracuru e região.
+
+IMPORTANTE:
+1. Extraia o ZIP inteiro.
+2. Não mova index.html para fora da pasta; mantenha a pasta assets ao lado dele.
+3. Para publicar, envie index.html e a pasta assets inteira para a hospedagem.
+4. Confirme se a logo, a foto e os vídeos estão dentro de assets. Vídeos não fornecidos no ambiente atual não serão exibidos; adicione seus arquivos e use os nomes video-1.mp4, video-2.mp4 e video-3.mp4.
